@@ -1,8 +1,8 @@
 # Algorithm_Course
 
-# Insertation_sort_project
+## Insertation_sort_project
 
-# first_example
+### first_example
 
 [22,27,16,2,18,6]
 
@@ -21,7 +21,7 @@
 3-4- average case
 
 
-# second_example
+## second_example
 
 [7,3,5,8,2,9,4,15,6] 
 
@@ -41,7 +41,7 @@
 2- O(n^2)
 
 
-# Merge_sort
+## Merge_sort
 
 1- 
 
